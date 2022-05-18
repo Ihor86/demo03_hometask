@@ -16,6 +16,7 @@ while (i1 < 20) {
     document.write(`<h1>Herson</h1>`);
     i1++;
 }
+
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
 document.write(`Task 4 </br>`);
 let i2 = 0;
